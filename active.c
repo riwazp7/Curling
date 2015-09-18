@@ -1,6 +1,6 @@
-/* rotten.c
+/* active.c
  * © 2015 Riwaz Poudyal 
- * Only print Sequences that are rotten/ not rotten (-c)
+ * Only print Sequences that are active
  */
 
 #include <stdio.h>
